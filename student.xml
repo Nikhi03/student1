@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<students>
+	<student>
+		<name>Name: abc</name>
+		<usn>USN:1</usn>
+		<branch>Branch:cs</branch>
+		<email>E-mail:mail1</email>
+	</student>
+	<student>
+		<name>Name:def</name>
+		<usn>USN:2</usn>
+		<branch>Branch:is</branch>
+		<email>E-mail:mail2</email>
+	</student>
+	<student>
+		<name>Name:ghi</name>
+		<usn>USN:3</usn>
+		<branch>Branch:ec</branch>
+		<email>E-mail:mail3</email>
+	</student>
+</students>
